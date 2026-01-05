@@ -12,7 +12,7 @@ You can do it using https://www.rapidtables.com/convert/number/ascii-hex-bin-dec
 
 The second part of the flag is "86 52 110 99 51 68 95 52".
 
-These are regular base-10 numbers, which should you recognise as decimal. Again, use the above converter to obtain "V4nc3D_4".
+These are regular base-10 numbers, which should you recognise as decimal. Again, use the above ASCII converter to obtain "V4nc3D_4".
 
 ---
 
@@ -20,7 +20,7 @@ The third part of the flag is "35 63 31 31 5F 34 66 31".
 
 Notice the "F" character on "5F". This should be a clear signal that this is hexadecimal.
 
-Again, use the above converter to obtain "5c11_4f1".
+Again, use the above ASCII converter to obtain "5c11_4f1".
 
 ---
 
