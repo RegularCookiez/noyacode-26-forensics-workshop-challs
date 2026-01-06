@@ -13,6 +13,7 @@ good luck...
 ## Summary
 - **Topic:** File Navigation
 - **Category:** General Skills
+- **Expected Difficulty:** Easy
 
 ## Hints
 the files are locked away in zip compression...
