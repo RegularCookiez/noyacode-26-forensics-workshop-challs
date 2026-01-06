@@ -46,6 +46,7 @@ You can use it by calling the command `strings web_of_lies.jpg | grep EJCTF{`.
 Specifically, the pipe "|" takes the strings output of `web_of_lies.jpg` and uses it as the input for grep.
 
 Additionally, the grep command takes in `EJCTF{`, which is a neat trick to search for the flag.
+
 (This is because CTFs strictly follow a specified flag format, and we can exploit the given flag format `EJCTF{`)
 
 Running the command will output the actual flag (alongside the previous fake):
