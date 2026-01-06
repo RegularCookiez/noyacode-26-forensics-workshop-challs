@@ -11,7 +11,7 @@ Sharpen your tools. Trust your instincts. The hunt starts now.
 ## Summary
 - **Topic:** None
 - **Category:** The Beginning
-- **Expected Difficulty:** Easy
+- **Expected Difficulty:** if you can't solve this you're cooked
 
 ## Hints
 As you'll remember, every flag has its own format.
