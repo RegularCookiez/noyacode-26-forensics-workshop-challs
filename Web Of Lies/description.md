@@ -5,7 +5,7 @@ what do spiders use to build their webs?
 ## Summary
 - **Topic:** Strings
 - **Category:** Forensics
-- - **Expected Difficulty:** Easy
+- **Expected Difficulty:** Easy
 
 ## Hints
 nothing's wrong with the flag, but you might want to search a little harder...
