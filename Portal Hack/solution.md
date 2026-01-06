@@ -38,6 +38,7 @@ admin@ejportal:/srv#
 ```
 
 The command we need to enter is `ls`, which lists files and folders in the current directory.
+
 Entering commands like `ls -l` or `ls -a` will fail here because Noya specifies no options.
 
 Regardless, Noya realises at the last moment that he can enter `ls -l` for a more detailed view anyway and does it.
@@ -63,6 +64,7 @@ admin@ejportal:/srv#
 ```
 
 The command we need to enter is `cd student_grades`, since `cd` allows us to change directory and access the folder.
+
 Alternatively, you can enter `cd /srv/student_grades`, but Noya will point out how needlessly long it is.
 
 ---
@@ -80,6 +82,7 @@ admin@ejportal:/srv/student_grades#
 ```
 
 This is a callback to when Noya used the `ls -l` command for a more detailed file/folder listing.
+
 Simply enter it again to proceed to the next stage.
 
 --- 
@@ -107,7 +110,9 @@ admin@ejportal:/srv/student_grades#
 ```
 
 The command we want to enter is `cat noya_otter.csv` here.
+
 This is because the `cat` command displays the full text contents of a file.
+
 Additionally, `noya_otter.csv` is the CSV of interest, since it has Noya's name.
 
 ---
@@ -129,7 +134,9 @@ admin@ejportal:/srv/student_grades#
 ```
 
 This was not in the workshop, but there are commands that can help you open a file in a text editor on a Linux terminal!
+
 One of them is `nano noya_otter.csv`, which uses the nano text editor.
+
 Another alternative is `vim noya_otter.csv`, which uses the vim editor.
 
 Both work, so choose either one.
@@ -166,6 +173,7 @@ admin@ejportal:/srv/student_grades#
 ```
 
 The command we want to enter is `touch thanks.txt`.
+
 This is because the `touch` command is used to create an empty file of that name.
 
 ---
@@ -179,6 +187,7 @@ admin@ejportal:/srv/student_grades#
 ```
 
 Remembering the text name, you can reuse the `cat` command we have already seen.
+
 Enter `cat thanks.txt` as your final answer!
 
 --- 
