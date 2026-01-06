@@ -22,4 +22,4 @@ There will also be some Linux command knowledge tested, refer to this cheatsheet
 None
 
 ## Services
-None
+`nc challenge-services.ejctf-practice.xyz 39001`
