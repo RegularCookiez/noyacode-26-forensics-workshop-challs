@@ -46,4 +46,4 @@ After extracting `flag.txt`, we can open it and read it in a text editor.
 
 Alternatively, we can also use the `cat` command to output its contents.
 
-Typing a command like `cat flag.txt` should print the flag `EJCTF{k1ll3d_p4u1_4g41n_5mh}`.
+Typing a command like `cat flag.txt` should print the flag `EJCTF{k1ll3d_p4u1_4g41n_5mh}`
