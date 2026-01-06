@@ -56,7 +56,7 @@ This converts `Ta444k~in-~~g~-~t-hhhhee~-~1~e44~sttt--~~ssss~ii~ggnnnifffii~~~c4
 
 Now, the previous text we found suggests taking the least significant bits of the ASCII.
 
-If you recall, the least significant bits of a byte is the rightmost digit.
+If you recall, the least significant bit of a byte is the rightmost digit.
 
 Therefore, we take the rightmost digit from each byte, and append them to form a new binary string.
 
