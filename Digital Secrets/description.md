@@ -9,6 +9,7 @@ What am I?
 ## Summary
 - **Topic:** ExifTool
 - **Category:** Forensics
+- **Expected Difficulty:** Easy
 
 ## Hints
 who said i needed to put the flag in plaintext?
