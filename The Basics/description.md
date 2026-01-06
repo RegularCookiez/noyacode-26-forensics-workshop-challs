@@ -15,7 +15,11 @@ good luck...
 - **Category:** General Skills
 
 ## Hints
-None
+the files are locked away in zip compression...
+
+try right click and extract them to a new folder?
+
+from there, linux will be your friend..
 
 ## Files
 - [`the_basics.zip`](./dist/the_basics.zip)
