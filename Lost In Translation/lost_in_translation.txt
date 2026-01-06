@@ -1,9 +1,0 @@
-I hid parts of the flag using different techniques.
-Try decode them and recover the full flag!
-
-1. 01000101 01001010 01000011 01010100 01000110 01111011 00110100 01100100
-2. 86 52 110 99 51 68 95 52
-3. 35 63 31 31 5F 34 66 31
-4. QzEwbjREMH0=
-
-(Hint: Character encoding standards)
