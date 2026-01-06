@@ -37,5 +37,6 @@ The path to folder varies based on where it was extracted to, but it should be s
 Running the executable with "./the_basics" will print the following output, and get you the flag:
 
 > You successfully extracted the ZIP file and ran the executable. For passing this simple test, here's the flag:
+> 
 > EJCTF{l34rn1n9_7h3_r0p35}
 
