@@ -1,10 +1,10 @@
 # Solution
 
-We are given a ZIP file that contains an extensionless file and a text file called the_basics.txt on inspection.
+We are given a ZIP file that contains an extensionless file `the_basics` and a text file called `the_basics.txt` on inspection.
 
 ---
 
-First, extract the ZIP to read the text file, and recover the following contents:
+First, extract the ZIP to read `the_basics.txt`, and recover the following contents:
 
 ```
 =====================================================================================
@@ -28,7 +28,7 @@ After that, you'll get the flag! :)
 
 ---
 
-Now that we know that the nameless file is an executable, we need to navigate to our extracted folder to run it. (Clicking it won't work on an OS like Windows, since it's a Linux executable)
+Now that we know that `the_basics` is an executable, we need to navigate to our extracted folder to run it. (Clicking it won't work on an OS like Windows, since it's a Linux executable)
 
 We do this by opening our Linux terminal, and navigating to the folder we extracted using the `cd /path/to/folder` command.
 
@@ -36,7 +36,7 @@ The path to the folder will vary based on where you extracted it to, but by defa
 
 ---
 
-Running the executable with "./the_basics" will print the following output, and get you the flag:
+Running the executable with `./the_basics` will print the following output, and get you the flag:
 
 ```
 You successfully extracted the ZIP file and ran the executable. For passing this simple test, here's the flag:
