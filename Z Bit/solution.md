@@ -64,7 +64,7 @@ Therefore, we take the rightmost digit from each byte, and append them to form a
 
 To append this binary string, you can of course do it manually, though it would take quite long.
 
-I would either suggest you use AI to automatically do it, or even code a basic script to extract the binary.
+I would either suggest you prompt AI to automatically do it, or even code a basic script to extract the binary.
 
 Below is a sample Python script I coded to extract the LSBs from the binary and append them to form a new binary string:
 
