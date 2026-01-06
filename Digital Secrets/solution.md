@@ -65,7 +65,7 @@ Megapixels                      : 0.772
 
 There are some interesting fields here, but one that should capture your attention is this:
 
-> User Comment                    : RUpDVEZ7dGgzX0QzdjFsXzE1XzFuX3RoM19kM1Q0MUw1fQ==
+`User Comment                    : RUpDVEZ7dGgzX0QzdjFsXzE1XzFuX3RoM19kM1Q0MUw1fQ==`
 
 This field is a user comment, which is easily editable.
 
