@@ -95,4 +95,5 @@ Running this Python file produces the new binary string:
 ```
 
 Finally, by converting the binary to ASCII on an online converter like https://www.rapidtables.com/convert/number/binary-to-ascii.html, we get the flag:
+
 `EJCTF{b1t5_4nd_p13c35}`
