@@ -1,5 +1,16 @@
 # Lost In Translation
-### Points: 250
-### Topic: encoding
----
+
 what do computers speak other than beep boop?
+
+## Summary
+- **Topic:** Encoding
+- **Category:** General Skills
+
+## Hints
+None
+
+## Files
+- [`lost_in_translation.txt`](./dist/lost_in_translation.txt)
+
+## Services
+None
