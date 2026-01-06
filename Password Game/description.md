@@ -9,6 +9,7 @@ I HATE THIS GAME!!!!
 ## Summary
 - **Topic:** Steghide
 - **Category:** Forensics
+- **Expected Difficulty:** Easy
 
 ## Hints
 look at the image. what needs a password, and what could be a password?
