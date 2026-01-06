@@ -5,6 +5,7 @@ what do computers speak other than beep boop?
 ## Summary
 - **Topic:** Encoding
 - **Category:** General Skills
+- **Expected Difficulty:** Easy
 
 ## Hints
 None
