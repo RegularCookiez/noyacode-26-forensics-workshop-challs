@@ -28,7 +28,8 @@ After that, you'll get the flag! :)
 
 ---
 
-Now that we know that `the_basics` is an executable, we need to navigate to our extracted folder to run it. (Clicking it won't work on an OS like Windows, since it's a Linux executable)
+Now that we know that `the_basics` is an executable, we need to navigate to our extracted folder to run it.
+(Clicking it won't work on an OS like Windows, since it's a Linux executable)
 
 We do this by opening our Linux terminal, and navigating to the folder we extracted using the `cd /path/to/folder` command.
 
