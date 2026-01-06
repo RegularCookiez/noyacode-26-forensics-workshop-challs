@@ -30,7 +30,7 @@ Now that we know that the nameless file is an executable, we need to navigate to
 
 We do this by opening our Linux terminal, and navigating to the folder we extracted using the cd /path/to/folder command.
 
-The path to folder varies based on where it was extracted to, but it should be somewhere in your Downloads folder, like /mnt/c/Users/your_username/Downloads/the_basics for Windows.
+The path to the folder will vary based on where you extracted it to, but by default it should be in your Downloads folder, like /mnt/c/Users/your_username/Downloads/the_basics for Windows.
 
 ---
 
