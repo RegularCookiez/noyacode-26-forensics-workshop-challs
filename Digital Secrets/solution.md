@@ -73,4 +73,4 @@ Also notice the equal signs on the back, suggesting that this string is padded B
 
 Decode the Base64 in an online decoder such as https://www.base64decode.org/.
 
-You should obtain the flag EJCTF{th3_D3v1l_15_1n_th3_d3T41L5}!
+You should obtain the flag `EJCTF{th3_D3v1l_15_1n_th3_d3T41L5}`!
