@@ -75,7 +75,7 @@ binary = "01010100 01100001 00110100 00110100 00110100 01101011 01111110 0110100
 #Take the binary string and split it into a list of each byte
 binary_strings = binary.split()
 
-#Define the empty new binary string and a length counter (to keep track of each 8 bits)
+#Define the empty new binary string and a length counter (to keep track of every 8 bits/1 byte)
 new_binary = ""
 length_counter = 0
 
