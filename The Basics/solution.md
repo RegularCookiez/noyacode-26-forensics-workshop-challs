@@ -6,23 +6,23 @@ We are given a ZIP file that contains an extensionless file and a text file call
 
 First, extract the ZIP to read the text file, and recover the following contents:
 
-=====================================================================================
-
-This challenge is designed for you to practice basic file/folder navigation!
-
-First, you have to extract the ZIP file.
-
-Then in your Linux shell, navigate to the folder you extracted these files to.
-
-To do this, use the "cd /path/to/directory" command to navigate through directories.
-(Remember, you should navigate to your new folder likely in your Downloads folder!)
-
-Finally, run the executable with the command "./the_basics"!
-
-After that, you'll get the flag! :)
-(don't worry there's no virus)
-
-=====================================================================================
+> =====================================================================================
+> 
+> This challenge is designed for you to practice basic file/folder navigation!
+> 
+> First, you have to extract the ZIP file.
+> 
+> Then in your Linux shell, navigate to the folder you extracted these files to.
+> 
+> To do this, use the "cd /path/to/directory" command to navigate through directories.
+> (Remember, you should navigate to your new folder likely in your Downloads folder!)
+> 
+> Finally, run the executable with the command "./the_basics"!
+> 
+> After that, you'll get the flag! :)
+> (don't worry there's no virus)
+> 
+> =====================================================================================
 
 ---
 
@@ -36,6 +36,6 @@ The path to folder varies based on where it was extracted to, but it should be s
 
 Running the executable with "./the_basics" will print the following output, and get you the flag:
 
-You successfully extracted the ZIP file and ran the executable. For passing this simple test, here's the flag:
-EJCTF{l34rn1n9_7h3_r0p35}
+> You successfully extracted the ZIP file and ran the executable. For passing this simple test, here's the flag:
+> EJCTF{l34rn1n9_7h3_r0p35}
 
