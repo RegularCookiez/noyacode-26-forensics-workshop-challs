@@ -4,7 +4,7 @@ On 5th Jan, we hosted a 2h NoyaCode Cybersecurity Experiential Workshop for 2026
 
 We hosted a series of practice forensics challenges covering basic concepts like number systems, Linux commands, LSB steganography, metadata, and strings.
 
-This repository serves as an archive of these beginner challenges with written writeups of their solves.
+This repository serves as an archive of these beginner challenges with written writeups of their solutions.
 
 Practice CTF site (hosted temporarily): https://ejctf-practice.xyz/.
 
