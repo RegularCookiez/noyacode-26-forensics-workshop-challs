@@ -1,3 +1,5 @@
+# Solution
+
 There are four parts to the flag, each one encoded using a different encoding standard.
 
 ---
