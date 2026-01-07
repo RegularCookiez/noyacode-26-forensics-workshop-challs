@@ -32,7 +32,13 @@ Therefore, the following sections will cover on answers for the different sectio
 
 ## MCQ Answers
 
-test
+```
+Q1. What is ExifTool mainly used to analyse?
+A) LSB steganography
+__B) Metadata__
+C) Printable characters
+D) File contents
+```
 
 ## Interactive Challenge Answers
 
