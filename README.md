@@ -1,6 +1,6 @@
 # Overview
 
-NoyaCode is a student-led cybersecurity initiative started by me and a group of like-minded peers who enjoy technical competitions.
+NoyaCode is a student-led cybersecurity initiative in EJC started by me and a group of like-minded peers who enjoy technical competitions.
 
 On 5th Jan 2026, we hosted a 2h NoyaCode Cybersecurity Experiential Workshop for 2026 JIP/J2 beginners.
 
@@ -24,7 +24,7 @@ NoyaCode Forensics Workshop Recording:
 
 https://www.youtube.com/watch?v=-1oYoRdjXec
 
-## Form Links
+## Form Links (EJ Only)
 
 This is also a reminder to complete the Feedback Form if you attended the workshop meeting:
 
