@@ -28,6 +28,10 @@ There are a total of 100 points, get 70% for an A. Good luck
 
 To complete the challenge, you will need to score enough points from the MCQs and the interactive challenges.
 
+To add extra difficulty, the questions and answer choices are shuffled for each unique connection.
+
+Finally, there is also a time limit of 30 minutes before the server stops you from answering further.
+
 Therefore, the following sections will cover on answers for the different sections and the given explanations in the quiz.
 
 ## MCQ Answers
@@ -690,7 +694,9 @@ The answer is BaseInfinity
 
 ## Final Remarks
 
-After completing the quiz, the server will give you statistics on your total marks and time taken like this:
+After completing the quiz, the server will give you statistics on your total marks and time taken.
+
+If you manage to achieve a score of at least 70%, you should see something like this:
 
 ```
 Final Score: 100/100 (100%)
