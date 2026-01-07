@@ -338,7 +338,7 @@ IHDR      Å   » ,Õ   IDATxìÝ¨mWq ðÍ¥	ED¤” %H	A¤	‚ˆ” 
 xåâüü_ùß¥Íëç×Vø¶¯-íÿ÷ÿ÷ùr~~¾8÷?ÿâ_ýõ«çüÃˆéú*®ëç¿üÕ¯Îé‹R“~¾8¿¾ŒáÚÒ>üµ¥íëêKº]âoü·DžŸŸ/…×W˜kçðÚ^çc…_œûÿùòKØ9:_œ¯ú|m©_á–¾Ví—å«¯þúœn	[Öý»8ÿŸÿùŸULð×—¸ë¯Ù—‹Åbq¾XÜL¯¾úê2ñÜL¿üå/oÁ.7Ú^[Ú­h±¸¡_,n.+,Ùbq3n±¸Á¿üòËeLb],n`‹7JÇ“½L¯¼òJÙ v2ß×ç>¼8‹7âX,Þ¨³WÑbñf±x£ÎV…ç{±x·XÜ¨‹u^.*¼Ü-7l.o”üVxq.oà‹7êžì¬;ï–ÿ-ÿé–å²Xþ§¶”-ù×þ]
 ```
 
-The PNG header at the top followed by IHDR and IDAT are actually signs that this file is a text file, not a PNG!
+The PNG header at the top followed by IHDR and IDAT are actually signs that this file is a PNG, not a text file!
 
 It seems strange that this PNG would come as a text file, but remember that anyone can rename file extensions.
 
