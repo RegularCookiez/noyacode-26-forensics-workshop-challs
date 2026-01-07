@@ -10,6 +10,8 @@ We hosted a series of practice forensics challenges covering basic concepts like
 
 This repository serves as an archive of these beginner challenges with written writeups of their solutions.
 
+---
+
 In each challenge folder exists a dist folder, description.md, and solution.md.
 
 - Read description.md to look at the challenge title and description.
