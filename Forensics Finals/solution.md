@@ -32,7 +32,7 @@ To add extra difficulty, the questions and answer choices are shuffled for each 
 
 Finally, there is also a time limit of 30 minutes before the server stops you from answering further.
 
-Therefore, the following sections will cover on answers for the different sections and the given explanations in the quiz.
+Therefore, the following sections will cover on answers for the different sections and the given explanations in the quiz, in an arbitrary order.
 
 ## MCQ Answers
 
