@@ -14,7 +14,7 @@ This repository serves as an archive of these beginner challenges with written w
 
 In each challenge folder exists a dist folder, description.md, and solution.md.
 
-- Read description.md to look at the challenge title and description, as well as an additional "estimated difficulty" I added.
+- Read description.md to look at the challenge descriptions, as well as an additional "estimated difficulty" I added.
 - Access the dist folder and download the files inside to get the challenge files.
 - Read solution.md when you want to see a walkthrough on the problem. (SPOILERS!)
 
