@@ -44,4 +44,4 @@ Also, fill in the NoyaCode Cybersecurity Interest Form if you are considering jo
 
 ---
 
-Thanks for the support! ❤️
+Thanks so much for the support, and we hope to see you join! ❤️
