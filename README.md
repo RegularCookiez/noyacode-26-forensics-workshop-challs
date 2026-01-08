@@ -1,14 +1,14 @@
 # Overview
 
-NoyaCode is a student-led cybersecurity initiative in EJC started by me and a group of like-minded peers who enjoy technical competitions. 🦦💻
+NoyaCode 🦦💻 is a student-led cybersecurity initiative in EJC started by me and a group of like-minded peers who enjoy technical competitions.
 
-On 5th Jan 2026, we hosted a 2h NoyaCode Cybersecurity Experiential Workshop for 2026 JIP/J2 beginners. 👨‍🏫
+On 5th Jan 2026, we hosted a 2h NoyaCode Cybersecurity Experiential Workshop 👨‍🏫 for 2026 JIP/J2 beginners.
 
-One hour was spent on learning while the other was given to participants to solve some challenges! ⏰
+One hour was spent on learning ⏰ while the other was given to participants to solve some challenges!
 
-We hosted a series of practice forensics challenges covering basic concepts like how CTFs work, different number systems, encoding standards, Linux commands, Netcat connections, LSB steganography with zsteg and Steghide, metadata analysis with ExifTool, and strings. 🚩🕵🏻‍♀️
+We hosted a series of practice forensics challenges covering basic concepts 🚩🕵🏻‍♀️ like how CTFs work, different number systems, encoding standards, Linux commands, Netcat connections, LSB steganography with zsteg and Steghide, metadata analysis with ExifTool, and strings.
 
-This repository serves as an archive of these beginner challenges with written writeups of their solutions. 📝
+This repository serves as an archive of these beginner challenges with written writeups 📝 of their solutions.
 
 ---
 
