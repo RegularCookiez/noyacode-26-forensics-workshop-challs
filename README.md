@@ -36,7 +36,7 @@ This is also a reminder to complete the Feedback Form if you attended the worksh
 
 ---
 
-Also, fill in the NoyaCode Cybersecurity Interest Form if you are considering joining us:
+Also, fill in the NoyaCode Cybersecurity Interest Form if you would like to join us:
 
 👉 [J1 Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSeBMBVabIgCvRtVo4_zfb5KAiX2vaYgzzgtUXqEFllKj9pD0w/viewform?usp=dialog)
 
