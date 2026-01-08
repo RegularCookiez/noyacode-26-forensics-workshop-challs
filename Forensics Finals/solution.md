@@ -319,7 +319,7 @@ It is recommended to open up a second terminal for solving.
 
 Now, I will also go through the 5 interactive challenge solutions in an arbitrary order (since they are randomised).
 
---
+---
 
 ```
 Challenge 1: Find the secret text in isitreallytext.txt
