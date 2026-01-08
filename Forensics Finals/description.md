@@ -22,4 +22,4 @@ To connect to the server, enter the command nc (server) (port) on your Linux ter
 None
 
 ## Services
-None
+`nc challenge-services.ejctf-practice.xyz 6767`
